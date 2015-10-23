@@ -1,0 +1,16 @@
+{
+    "name": "node-mp3",
+    "version": "0.0.1",
+    "description": "Simple MP3 Decoder/Player for Node.js",
+    "repository": "https://github.com/ptmccarthy/node-mp3.git",
+    "author": "Patrick McCarthy <p.t.mccarthy@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "speaker": "latest",
+        "lame": "latest"
+    },
+    "main": "index",
+    "engines": {
+        "node": ">= 0.12.6"
+    }
+}
